@@ -9,11 +9,7 @@ It is a research project invetgatiing the use of advanced machine learning techn
 The website is at [here](delta-onera.github.io).
 
 ## The code
-For now it is composed of two minimal scripts to set up a SegNet.
+For now it is composed of a minimal script to set up a SegNet.
 
 ## License
 This software is distributed under GPL license.
-
-## VGG16 weights
-Weights for initialization (if needed) can be found at :
-https://github.com/jcjohnson/pytorch-vgg
