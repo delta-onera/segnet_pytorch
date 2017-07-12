@@ -10,6 +10,7 @@ The website is at [here](delta-onera.github.io).
 
 ## The code
 For now it is composed of a minimal script to set up a SegNet.
+We also provide a complete train/test sample to perform kind of detections (this code may be moved to another place in the future).
 
 ## License
 This software is distributed under GPL license.
