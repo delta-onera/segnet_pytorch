@@ -1,4 +1,8 @@
 # SegNet PyTorch
+
+## This code is now deprecated. Further updates will be in the [Delta toolbox](https://github.com/delta-onera/delta_tb).
+
+
 SegNet implemetation using PyTorch.
 The orginal SegNet website is [here](http://mi.eng.cam.ac.uk/projects/segnet/).
 Please visit this website for full description and links to publications.
